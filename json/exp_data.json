@@ -1,0 +1,80 @@
+[
+  {
+    "empresa": "ADX Full Commerce",
+    "cargo": "Frontend Developer Júnior",
+    "periodo": "2021 a atual",
+    "tecnologias": [
+      {
+        "icone": "devicon-nodejs-plain",
+        "nome": "NODEJS",
+        "cor": "#83cd29"
+      },
+      {
+        "icone": "devicon-mongodb-plain",
+        "nome": "MONGODB",
+        "cor": "#4faa41"
+      },
+      {
+        "icone": "devicon-vuejs-plain",
+        "nome": "vuejs",
+        "cor": "#41b883"
+      },
+      {
+        "icone": "devicon-nuxtjs-plain",
+        "nome": "nuxt",
+        "cor": "#00c48d"
+      },
+      {
+        "icone": "devicon-bulma-plain",
+        "nome": "bulma",
+        "cor": "#00d1b2"
+      },
+      {
+        "icone": "devicon-git-plain",
+        "nome": "GIT",
+        "cor": "#f34f29"
+      }
+    ],
+    "resumo": "Auxiliando no desenvolvimento de plataforma de e-commerce do zero, utilizando NodeJS e AdinisJS no Backend.<br />Frontend Vuejs, Nuxt e Bulma. Banco de dados com Mongodb e Redis. Deploy sendo realizado na Digital Ocean."
+  },
+
+  {
+    "empresa": "Nexme",
+    "cargo": "Estagiário Frontend Developer",
+    "periodo": "2019 a 2020",
+    "tecnologias": [
+      {
+        "icone": "devicon-laravel-plain",
+        "nome": "LARAVEL",
+        "cor": "#fd4f31"
+      },
+      {
+        "icone": "devicon-mongodb-plain",
+        "nome": "MONGODB",
+        "cor": "#4faa41"
+      },
+
+      {
+        "icone": "devicon-vuejs-plain",
+        "nome": "vuejs",
+        "cor": "#41b883"
+      },
+      {
+        "icone": "devicon-azure-plain",
+        "nome": "AZURE",
+        "cor": "#0089d6"
+      },
+      {
+        "icone": "devicon-bootstrap-plain",
+        "nome": "Bootstrap",
+        "cor": "#59407f"
+      },
+      {
+        "icone": "devicon-git-plain",
+        "nome": "GIT",
+        "cor": "#f34f29"
+      }
+    ],
+    "resumo": "Planejamento, análise, modelagem e desenvolvimento de softwares, envolvendo a aplicação de linguagens e ambientes de programação.<br />"
+  }
+]
