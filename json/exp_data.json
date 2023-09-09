@@ -1,0 +1,41 @@
+[
+  {
+  
+    "empresa": "ADX Full Commerce",
+    "cargo": "Desenvolvedor web Júnior",
+    "periodo": "2022 a atual",
+    "tecnologias": [
+      {
+        "icone": "devicon-nodejs-plain",
+        "nome": "NODEJS",
+        "cor": "#83cd29"
+      },
+      {
+        "icone": "devicon-mongodb-plain",
+        "nome": "MONGODB",
+        "cor": "#4faa41"
+      },
+      {
+        "icone": "devicon-vuejs-plain",
+        "nome": "vuejs",
+        "cor": "#41b883"
+      },
+      {
+        "icone": "devicon-nuxtjs-plain",
+        "nome": "nuxt",
+        "cor": "#00c48d"
+      },
+      {
+        "icone": "devicon-bulma-plain",
+        "nome": "bulma",
+        "cor": "#00d1b2"
+      },
+      {
+        "icone": "devicon-git-plain",
+        "nome": "GIT",
+        "cor": "#f34f29"
+      }
+    ],
+    "resumo": "Auxiliando no desenvolvimento de plataforma de e-commerce, utilizando Typescript, Framework NestJS  no Backend.<br />Frontend Typescript, Framework VueJS e NuxtJS . Banco de dados com Mongodb para armazenamento, Redis para autenticação e cache. Deploy sendo realizado na Digital Ocean e Vercel."
+  }
+]
