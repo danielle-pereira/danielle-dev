@@ -205,7 +205,7 @@ a{
 	float: left;
 }
 .header-int .menu-int {
-	width: 280px;
+	width: 350px;
 	margin-left: 20px;
 	margin-top: 10px;
 }
@@ -311,10 +311,11 @@ a{
 	text-transform: uppercase;
 	margin-top: 10px;
 	font-size: 24px;
-	color: #5a45ff;
+	color: #f96854;
 }
 .experiencias .outros{
-	font-size: 18px;
+	font-size: 20px;
+	
 }
 .experiencias{
 	margin-bottom: 20px;

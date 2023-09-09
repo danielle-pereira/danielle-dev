@@ -11,6 +11,7 @@ export default {
 	data() {
 		return {
 			itens: [
+				
 				{
 					nome: 'PERFIL',
 					rota: 'perfil'
@@ -22,6 +23,10 @@ export default {
 				{
 					nome: 'EXPERIÊNCIAS',
 					rota: 'experiencias'
+				},
+				{
+					nome: 'PROJETOS',
+					rota: 'projetos'
 				},
 			],
 			getItens: []

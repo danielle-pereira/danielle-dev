@@ -1,6 +1,5 @@
 <template>
 	<div class="header">
-
 		<div class="grid-content text-center">
 			<nuxt-img src="/assets/img/me.jpg" class="shadow-lg" />
 			<div class="title">DANIELLE <b>PEREIRA</b></div>
