@@ -28,7 +28,7 @@
 						<i class="devicon-bulma-plain colored icon-size"></i>
 						<div style="color: #00d1b2;">BULMA</div>
 					</div>
-					
+
 					<div class="box-icon">
 						<i class="devicon-vuejs-plain colored icon-size"></i>
 						<div style="color: #41b883;">Vue.js</div>
@@ -42,8 +42,8 @@
 						<i class="devicon-javascript-plain icon-size" style="color: #c7b20a;"></i>
 						<div style="color: #c7b20a;">javascript</div>
 					</div>
-					
-			
+
+
 					<div class="box-icon">
 						<i class="devicon-typescript-plain colored icon-size"></i>
 						<div style="color: #3074C0;">Typescript</div>
@@ -115,29 +115,27 @@
 
 			<div class="content shadow-sm bio" style="margin-top: 30px;">
 				<div class="title-tec tecs-color">DEVELOPMENT, DEVOPS, DEPLOY, CODE VERSION...</div>
-
 				<div class="icons-float">
-			
 					<div class="box-icon">
 						<i class="devicon-vscode-plain colored icon-size"></i>
 						<div style="color: #3c99d4;">vscode</div>
 					</div>
-		
+
 					<div class="box-icon">
 						<i class="devicon-digitalocean-plain colored icon-size"></i>
 						<div style="color: #0080ff;">digitalocean</div>
 					</div>
-					
+
 					<div class="box-icon">
 						<i class="devicon-git-plain colored icon-size"></i>
 						<div style="color: #f34f29;">git</div>
 					</div>
-					
+
 					<div class="box-icon">
 						<i style="color: #999;" class="devicon-github-plain colored icon-size"></i>
 						<div style="color: #999;">github</div>
 					</div>
-					
+
 					<div class="box-icon">
 						<i class="devicon-gitlab-plain colored icon-size"></i>
 						<div style="color: #e24329;">gitlab</div>
@@ -164,7 +162,7 @@
 
 <script>
 export default {
-    name: "Header",
-    transition: "slide-bottom",
+	name: "Header",
+	transition: "slide-bottom",
 }
 </script>
