@@ -155,8 +155,8 @@
 				</div>
 				<div class="clear-fix"></div>
 			</div>
-
-			<nuxt-link class="back" to="/">Voltar</nuxt-link>
+			<nuxt-link class="back" to="/">
+				Voltar</nuxt-link>
 		</div>
 
 	</div>
