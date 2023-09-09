@@ -157,6 +157,7 @@
 				Voltar</nuxt-link>
 		</div>
 
+		
 	</div>
 </template>
 
